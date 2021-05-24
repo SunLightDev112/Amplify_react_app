@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h3>This is test react app to delply using aws amplify</h3>
       </header>
     </div>
   );
